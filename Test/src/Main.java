@@ -1,4 +1,3 @@
-
 public class Main {
 
 	/**
@@ -8,6 +7,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("GIT!!!");
 		System.out.println("Vivian");
+		System.out.println("Editing from Git Hub");
 	}
 
 }
